@@ -1,0 +1,9 @@
+class p2_1s22{
+	public static void main(String[] args) {
+	    System.out.println("Castañeda Antonio Bryan Kevin");
+	    System.out.println("18 años");
+	    System.out.println("ka7953477@gmail.com");
+	    System.out.println("me gusta jugar videojuegos");
+	    System.out.println("ni color favorito es azul");
+	}
+}
